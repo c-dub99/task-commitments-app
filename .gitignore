@@ -1,0 +1,8 @@
+     .env
+     .env.local
+     .env*.local
+     task-app/.env.local
+     node_modules/
+     task-app/node_modules/
+     task-app/.next/
+     .cursor/
